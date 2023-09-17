@@ -14,7 +14,7 @@ Além disso, por mais que é um código que programei há dois anos, estou aprov
 Faça o download do arquivo .html incluso e abra no seu navegador de preferência!
 
 ## Futuras implementações
-Adicionar uma interface básica, para:
+Adicionar uma interface básica, de interação com o mouse para:
 - Selecionar dificuldade (bola e jogadores);
 - Selecionar tamanho do display desejado ou do Aspect Ratio da sua tela.
 
