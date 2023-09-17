@@ -3,9 +3,10 @@
 
 ## Sobre o projeto
 Escrevi a base deste código no final do curso de JavaScript que fiz na USP pelo PET de Computação da instituição, em 2021.
-Esta é minha primeira experiência com programação que tive na minha vida.
 
-Além disso, por mais que é um código que programei há dois anos, estou aproveitando para inaugurar meu GitHub, também para entender melhor como funciona a plataforma. Então, esta também é minha primeira experiêcia como desenvolvedor no GitHub.
+__Esta é minha primeira experiência com programação que tive na minha vida.__
+
+Além disso, por mais que é um código que programei há dois anos, estou aproveitando para inaugurar meu GitHub, também para entender melhor como funciona a plataforma. __Então, esta também é minha primeira experiêcia como desenvolvedor no GitHub.__
 
 É um simples jogo do Pong, mas pretendo fazer futuras alterações para deixá-lo mais divertido.
 
