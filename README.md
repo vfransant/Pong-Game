@@ -10,7 +10,7 @@ Além disso, por mais que é um código que programei há dois anos, estou aprov
 É um simples jogo do Pong, mas pretendo fazer futuras alterações para deixá-lo mais divertido.
 
 ## Como jogar?
-Simplesmente faça o download do arquivo .html incluso e abra no seu navegador de preferência!
+Faça o download do arquivo .html incluso e abra no seu navegador de preferência!
 
 
 
